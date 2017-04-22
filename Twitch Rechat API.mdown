@@ -1,0 +1,12 @@
+# Twitch Rechat API #
+## Accessability of the API ##
+### Means of access ###
+By doing a HTTP GET request using this URL and the following query attributes:
+URL: https://rechat.twitch.tv/rechat-messages?start=*epoch timestamp*&video_id=*VOD ID (prefixed with 'v')*
+*Example:* https://rechat.twitch.tv/rechat-messages?start=1492797765&video_id=v137114178
+
+### Liability ###
+In the future some kind of limit can be inforced by Twitch, if the API is misused. Consider this in our implementation.
+
+### Implementation inspiration ###
+- https://github.com/KunaiFire/rechat-dl
