@@ -28,7 +28,7 @@ The web page will provide the following functions:
     + By VOD
     + Within a time span
     All above can be freely combined
-- VOD preview in relation of the chat quote
+- VOD preview in relation of the chat quote (though limited by the time availability limit, perhaps a manual link to YouTube archive in the future?)
 
 ### Use of APIs ###
 - Twitch API; https://dev.twitch.tv/
