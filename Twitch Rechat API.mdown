@@ -6,7 +6,7 @@ URL: https://rechat.twitch.tv/rechat-messages?start=*epoch timestamp*&video_id=*
 *Example:* https://rechat.twitch.tv/rechat-messages?start=1492797765&video_id=v137114178
 
 ### Liability ###
-In the future some kind of limit can be inforced by Twitch, if the API is misused. Consider this in our implementation.
+In the future some kind of limit can be inforced by Twitch, if the API is misused. Consider this in the implementation.
 
 ### Implementation inspiration ###
 - https://github.com/KunaiFire/rechat-dl
